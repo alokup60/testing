@@ -22,6 +22,7 @@
   </div>
   <Nested x="20" />
   <a href="/PropsObj">click me</a>
+  <a href="/Form">Go to Form</a>
 </section>
 
 <style>
