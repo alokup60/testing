@@ -23,6 +23,8 @@
   <Nested x="20" />
   <a href="/PropsObj">click me</a>
   <a href="/Form">Go to Form</a>
+  <a href="/SelectForm">Select Form </a>
+  <a href="/FormTest">Testing</a>
 </section>
 
 <style>
