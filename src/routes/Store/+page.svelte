@@ -4,14 +4,14 @@
   import Decrement from "../components/Decrement.svelte";
   import Reset from "../components/Reset.svelte";
 
-  let count_val;
+  //   let count_val;
 
-  count.subscribe((val) => {
-    count_val = val;
-  });
+  //   count.subscribe((val) => {
+  //     count_val = val;
+  //   });
 </script>
 
-<h1>The count is {count_val}</h1>
+<h1>The count is {$count}</h1>
 
 <Incrementer />
 <Decrement />
