@@ -25,6 +25,7 @@
   <a href="/Form">Go to Form</a>
   <a href="/SelectForm">Select Form </a>
   <a href="/FormTest">Testing</a>
+  <a href="/Store">Store</a>
 </section>
 
 <style>

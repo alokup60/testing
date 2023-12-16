@@ -5,3 +5,5 @@ export const data = writable({
   version: 0,
   website: "",
 });
+
+export const count = writable(0);
